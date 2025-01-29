@@ -2,6 +2,8 @@
 // SquareLine Studio version: SquareLine Studio 1.4.1
 // LVGL version: 8.3.11
 // Project name: 2025_project
+//lv_color_t *buf = (lv_color_t *)heap_caps_malloc(screenWidth * 40 * sizeof(lv_color_t), MALLOC_CAP_DMA);
+//lv_disp_draw_buf_init(&draw_buf, buf, NULL, (screenWidth > screenHeight ? screenWidth : screenHeight) * 40);
 
 #include "ui.h"
 #include "ui_helpers.h"
