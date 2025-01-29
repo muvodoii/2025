@@ -5,5 +5,3 @@ ui.c
 ui_comp_hook.c
 ui_helpers.c
 ui_events.c
-ui_img_group_2946_png.c
-ui_img_group_2945_png.c
